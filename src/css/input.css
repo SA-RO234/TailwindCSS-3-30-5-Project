@@ -31,4 +31,7 @@ html {
 }
 
 
-
+.activeTap{
+    border-bottom: 2px solid;
+    @apply border-orange-500;
+}
